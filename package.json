@@ -1,5 +1,5 @@
 {
-  "name": "tinhdv-face-api.js",
+  "name": "thachdv-face-api.js",
   "version": "0.22.4",
   "description": "JavaScript API for face detection and face recognition in the browser with tensorflow.js",
   "module": "./build/es6/index.js",
@@ -56,11 +56,11 @@
     "typescript": "^3.8.3"
   },
   "publishConfig": {
-  "@tinhdowoss:registry": "https://npm.pkg.github.com"
+  "@Thachdv7:registry": "https://npm.pkg.github.com"
   },
   "repository": {
   "type": "git",
-  "url": "https://github.com/tinhdowoss/tinhdv-face-api.git"
+  "url": "https://github.com/thachdv7/ai-face-api.git"
   }
 
 
